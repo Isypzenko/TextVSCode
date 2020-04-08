@@ -1,0 +1,19 @@
+body {
+  background: rgba(19, 202, 65, 0.719);
+}
+
+header {
+  background: #333;
+}
+
+.block {
+
+	&__item {
+	}
+
+	&__ {
+	}
+}
+
+.block {
+}
